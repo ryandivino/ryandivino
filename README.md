@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ryan
 
-🎓 Estudante de Engenharia de Computação na UEMA  
+🎓 Acadêmico de Engenharia de Computação (UEMA)
 💻 Transformando estudo em prática  
 
 
