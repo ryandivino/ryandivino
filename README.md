@@ -1,23 +1,23 @@
-# 👋 Olá, eu sou o Ryan
+# Olá, eu sou o Ryan💻
 
-🎓 Acadêmico de Engenharia de Computação (UEMA) | 💻 Transformando estudo em prática  
+Acadêmico de Engenharia de Computação (UEMA) | Transformando estudo em prática  
 
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Atualmente estou focado em fortalecer minha base em programação e matemática, enquanto desenvolvo projetos próprios.
 
 Tenho interesse em tecnologia de forma geral e estou explorando caminhos como Python, visão computacional e sistemas embarcados.
 
 
-## 🚀 O que você vai encontrar aqui
+## O que você vai encontrar aqui
 
 - Projetos simples em Python
 - Experimentos e testes de aprendizado
 - Evolução prática ao longo do tempo
 
 
-## 🔧 Ferramentas
+## Ferramentas
 
 - Python  
 - C  
@@ -25,6 +25,6 @@ Tenho interesse em tecnologia de forma geral e estou explorando caminhos como Py
 - HTML/CSS/Js (básico)
 
 
-## 📌 Observação
+## Observação
 
 Esse GitHub, atualmente, faz parte do meu processo de aprendizado.  
